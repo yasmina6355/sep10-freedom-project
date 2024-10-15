@@ -1,7 +1,7 @@
 # Entry 1 Architecture
 ##### 10/14/24
 
-## Context
+## Content
 Since architecture is my ideal job, I decided to use it as the topic for my project. I chose this subject because I want to study about different styles of architecture, building techniques, and building procedures. I'm passionate about architecture and would like to know more about it. Since I was little, I have enjoyed designing and creating buildings. My backup plans included starting a website about chemistry or the toy industry. I wasn't passionate about making a website about them. Therefore, I  decided not to do it. 
 
 ## Engineering Design Process
