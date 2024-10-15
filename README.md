@@ -4,21 +4,31 @@ by Yasmin Alghazali
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of Architecture.
+For my project, I chose the topic of Architecture because its my dream job. I liked creating and designing bulidings ever since I was little. My back up ideas were to create a website about either toy industries or chemistry. I didn't choose either because I wasn't passionate to create a website about them. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study Architecture in order to help me make my website.
+
+## Engineering Design Process
+At this point in the engineering design process, defining the problem is the primary objective. My initiative aims to address the issue of presenting people with the true nature of architecture. The next step is to do some research on the topic. I want to talk to my peers and people in my immediate surrounds about the problem and get their opinions on it, in addition to using articles and websites.
+
+## Skills 
+Working on this blog has taught me several skills, such how to use Google, manage my time, and interact.
 
 ## Links
 
-[Product]()
+[Product](https://www.prarch.com/rewards-of-being-an-architect/)
 
-[Presentation]()
+[Presentation](https://www.architectural-review.com/archive/campaigns/the-big-rethink/the-big-rethink-part-4-the-purposes-of-architecture)
 
 ## Implications
 ##### PROS
-* 
+* Creativity and Contribution to Design
+* Impactful Contributions	
+* Diverse Career Paths
 ##### CONS
-* 
+* Challenging Schedules
+* Lengthy Education and Training
+* Project Uncertainties
 
 
 ## Blog
