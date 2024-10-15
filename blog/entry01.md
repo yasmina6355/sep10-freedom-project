@@ -2,11 +2,7 @@
 ##### 10/14/24
 
 ## Context
-I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
-
-For my project, I chose the topic of Architecture because its my dream job. I liked creating and designing bulidings ever since I was little. My back up ideas were to create a website about either toy industries or chemistry. I didn't choose either because I wasn't passionate to create a website about them. 
-
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study Architecture in order to help me make my website.
+Since architecture is my ideal job, I decided to use it as the topic for my project. I chose this subject because I want to study about different styles of architecture, building techniques, and building procedures. I'm passionate about architecture and would like to know more about it. Since I was little, I have enjoyed designing and creating buildings. My backup plans included starting a website about chemistry or the toy industry. I wasn't passionate about making a website about them. Therefore, I  decided not to do it. 
 
 ## Engineering Design Process
 At this point in the engineering design process, defining the problem is the primary objective. My initiative aims to address the issue of presenting people with the true nature of architecture. The next step is to do some research on the topic. I want to talk to my peers and people in my immediate surrounds about the problem and get their opinions on it, in addition to using articles and websites.
