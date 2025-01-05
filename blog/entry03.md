@@ -1,5 +1,5 @@
 # Entry 3
-##### 12/18/24
+## 12/18/24
 
 ## Content 
 #### BrainStorming 
@@ -31,6 +31,8 @@ I liked how Bryan's website was visually appealing and easy to manage.
 
 
 ## EDP
+I am currently on the third stage of the Engineering Design Process. Which is to brainstorm possible solutions. As this blog has demonstrated, I have been coming up with a variety of ideas that could be beneficial for the architectural community in the future. The next step I will take is planning the most promising solution. 
+
 
 
 ## Skills
